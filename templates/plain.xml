@@ -1,0 +1,19 @@
+<templateSet group="plain">
+  <template name="ps" value="private String " description="private String" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="pi" value="private int " description="private int" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="all" value="@SuppressWarnings(&quot;all&quot;)" description="SuppressWarnings(&quot;all&quot;)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

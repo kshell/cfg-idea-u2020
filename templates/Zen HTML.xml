@@ -1,0 +1,11 @@
+<templateSet group="Zen HTML">
+  <template name="script" value="&lt;script type=&quot;text/javascript&quot; !src=&quot;&quot;&gt;$END$&lt;/script&gt;" description="&lt;script&gt;...&lt;/script&gt;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="script:src" value="&lt;script type=&quot;text/javascript&quot; src=&quot;$END$&quot;&gt;&lt;/script&gt;" description="&lt;script src=&quot;...&quot;&gt;...&lt;/script&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSX_EXPRESSION" value="true" />
+      <option name="JSX_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

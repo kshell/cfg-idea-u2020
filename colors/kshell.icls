@@ -1,0 +1,37 @@
+<scheme name="kshell" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-10-26T17:47:57</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.3.0.0</property>
+    <property name="modified">2019-02-25T11:23:14</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="EL_BACKGROUND">
+      <value />
+    </option>
+    <option name="HTML_CODE">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="HTML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value />
+    </option>
+    <option name="JSP_DIRECTIVE_BACKGROUND">
+      <value />
+    </option>
+    <option name="JSP_SCRIPTING_BACKGROUND">
+      <value />
+    </option>
+    <option name="TEXT">
+      <value />
+    </option>
+  </attributes>
+</scheme>

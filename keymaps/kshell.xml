@@ -1,0 +1,7 @@
+<keymap version="1" name="kshell" parent="$default">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="HippieCompletion" />
+</keymap>
